@@ -1,0 +1,10 @@
+{
+    "name": "Unity858a2669783a0e84dd71.Googlereg.Editor",
+    "references": [
+      "Unity858a2669783a0e84dd71.Googlereg"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

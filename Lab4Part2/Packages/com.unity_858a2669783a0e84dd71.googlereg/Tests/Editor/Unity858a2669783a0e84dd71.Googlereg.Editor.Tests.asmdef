@@ -1,0 +1,14 @@
+{
+    "name": "Unity858a2669783a0e84dd71.Googlereg.Editor.Tests",
+    "references": [
+        "Unity858a2669783a0e84dd71.Googlereg.Editor",
+        "Unity858a2669783a0e84dd71.Googlereg"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

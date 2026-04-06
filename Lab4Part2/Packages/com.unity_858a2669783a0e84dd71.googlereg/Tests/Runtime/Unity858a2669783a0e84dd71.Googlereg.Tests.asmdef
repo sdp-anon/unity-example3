@@ -1,0 +1,11 @@
+{
+    "name": "Unity858a2669783a0e84dd71.Googlereg.Tests",
+    "references": [
+        "Unity858a2669783a0e84dd71.Googlereg"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
